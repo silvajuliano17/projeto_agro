@@ -1,0 +1,50 @@
+
+.titulo {
+  color: aqua;
+  text-align: center;
+  text-transform: inherit;
+  margin: 1.2rem 0 ;
+  font-size: 48px;
+font-weight: 700;
+line-height: 56px;3
+
+}
+.turma p {
+  font-size: 20px;
+  text-transform: initial;
+}
+
+.turma .aluno {
+  text-align: center;
+  margin-bottom: 20px;
+  
+}
+.turma .aluno .imagem {
+ margin-bottom: 15px;
+ overflow: hidden;
+ min-height: 206px;
+
+}
+.turma .aluno .imagem img {
+  max-width: 100%;
+
+}
+
+.turma .aluno h4{
+color: aqua;
+font-weight: 700;
+margin-bottom: 2px;
+font-size: 18px;
+}
+
+.turma .aluno span {
+  color:aqua;
+  font-size: 13px;
+  font-weight: 700;
+  font-style: italic;
+  display: block;
+}
+
+#github {
+  background-color: black;
+}

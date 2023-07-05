@@ -1,0 +1,49 @@
+
+#main{
+  background: #C0C0C0;
+  width: 100%;
+  padding: 0 0 0 0;
+
+}
+
+#main h1{
+  margin: 1.2rem 1.2rem 1.2rem 1.2rem;
+  font-size: 1.3rem ;
+  font-weight: 700;
+  line-height: 56px;
+  color: #090909;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#main h2 {
+  color:#090909;
+  font-size: 1.3rem ;
+  text-align: justify;
+  text-indent: 30px;
+  margin: 1.2rem 1.2rem 1.2rem 1.2rem;
+}
+
+#main h2 .segundo {
+  text-indent: 30px;
+}
+#main h2 b {
+  font-weight: bold;
+}
+i {
+  font-style: italic;
+}
+
+
+.container{
+  display: flex;
+background: #C0C0C0;
+}
+
+.texto-intro{
+  margin: 0 0 0 0;
+}
+.img-main{
+  width: 500 rem;
+  height: auto;
+}
