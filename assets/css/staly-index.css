@@ -65,15 +65,15 @@ background: #C0C0C0;
 }
 
 .content .slide img{
-  height: 500%;
-  width: 500%;
+  height: 100%;
+  width: 100%;
 }
 
 .navegacao{
   position: absolute;
   bottom: 160px;
-  left: 500px;
-  top: 500px;
+  left: 800px;
+  top: 800px;
   display: flex;
 }
 
