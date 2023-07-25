@@ -54,8 +54,8 @@ background: #C0C0C0;
  
 }
 .content{
-  height: 150px;
-  width:700px ;
+  height: 500px;
+  width:900px ;
   border-radius: 20px;
   overflow: hidden;
   position: absolute;
@@ -72,8 +72,8 @@ background: #C0C0C0;
 .navegacao{
   position: absolute;
   bottom: 160px;
-  left: 800px;
-  top: 800px;
+  left: 500px;
+  top: 500px;
   display: flex;
 }
 
