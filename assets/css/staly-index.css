@@ -213,7 +213,7 @@ margin-left: -80%;
 @media screen and (max-width:820px){
   .content{
     height:250px;
-    width:350px ;
+    width:355px ;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
@@ -225,7 +225,7 @@ margin-left: -80%;
     position: absolute;
     bottom: 160px;
     left: 4rem;
-    top: 60rem;
+    top: 65rem;
     display: flex;
   }
 
@@ -233,7 +233,7 @@ margin-left: -80%;
     position: absolute;
     bottom: 160px;
     left: 4rem;
-    top: 60rem;
+    top: 65rem;
     display: flex;
   }
 
