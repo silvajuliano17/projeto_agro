@@ -172,8 +172,8 @@ margin-left: -80%;
   .navegacao{
     position: absolute;
     bottom: 160px;
-    left: 10rem;
-    top: 48rem;
+    left: 8rem;
+    top: 52rem;
     display: flex;
   }
 }
