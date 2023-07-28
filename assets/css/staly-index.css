@@ -264,8 +264,8 @@ margin-left: -80%;
   .navegacao-auto{
     position: absolute;
     bottom: 160px;
-    left: 500px;
-    top: 500px;
+    left: 15rem;
+    top: 38rem;
     display: flex;
   }
   #main{
