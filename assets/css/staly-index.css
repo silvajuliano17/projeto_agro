@@ -158,7 +158,7 @@ margin-left: -80%;
   
 }
 
-@media screen and (max-width:375px){
+@media screen and (max-width:516px){
   .content{
     height:800px;
     width:150px ;
