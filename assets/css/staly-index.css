@@ -224,16 +224,16 @@ margin-left: -80%;
   .navegacao{
     position: absolute;
     bottom: 160px;
-    left: 8rem;
-    top: 48rem;
+    left: 4rem;
+    top: 70rem;
     display: flex;
   }
 
   .navegacao-auto{
     position: absolute;
     bottom: 160px;
-    left: 8rem;
-    top: 48rem;
+    left: 4rem;
+    top: 70rem;
     display: flex;
   }
 
