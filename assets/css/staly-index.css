@@ -160,7 +160,7 @@ margin-left: -80%;
 
 @media screen and (max-width:516px){
   .content{
-    height:800px;
+    height:250px;
     width:150px ;
     border-radius: 20px;
     overflow: hidden;
