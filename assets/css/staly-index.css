@@ -243,8 +243,32 @@ margin-left: -80%;
 }
 
 @media screen and (max-width:1172px){
-  
+  .content{
+    height:300px;
+    width:800px ;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: 22rem;
+    left: 15rem;
+    box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
+  }
+  .navegacao{
+    position: absolute;
+    bottom: 160px;
+    left: 500px;
+    top: 500px;
+    display: flex;
+  }
+
+  .navegacao-auto{
+    position: absolute;
+    bottom: 160px;
+    left: 500px;
+    top: 500px;
+    display: flex;
+  }
   #main{
-    height: 58rem;
+    height: 46rem;
   }
 }
