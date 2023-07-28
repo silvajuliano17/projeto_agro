@@ -176,4 +176,12 @@ margin-left: -80%;
     top: 50rem;
     display: flex;
   }
+
+  .navegacao-auto{
+    position: absolute;
+    bottom: 160px;
+    left: 5rem;
+    top: 50rem;
+    display: flex;
+  }
 }
