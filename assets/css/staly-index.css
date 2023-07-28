@@ -249,7 +249,7 @@ margin-left: -80%;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
-    top: 30rem;
+    top: 32rem;
     left: 10rem;
     box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
   }
@@ -257,7 +257,7 @@ margin-left: -80%;
     position: absolute;
     bottom: 160px;
     left: 15rem;
-    top: 38rem;
+    top: 42rem;
     display: flex;
   }
 
@@ -265,7 +265,7 @@ margin-left: -80%;
     position: absolute;
     bottom: 160px;
     left: 15rem;
-    top: 38rem;
+    top: 42rem;
     display: flex;
   }
   #main{
