@@ -159,5 +159,14 @@ margin-left: -80%;
 }
 
 @media screen and (max-width:375px){
- 
+  .content{
+    height:800px;
+    width:150px ;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: 48rem;
+    left: 15rem;
+    box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
+  }
 }
